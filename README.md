@@ -9,9 +9,9 @@
 
 ###### Important !
 
-Need to make groups for every rank and faction
+**Need to make groups for every rank and faction**
 
-Don't forget to put in __resource.lua or fxmanifest.lua
+**__Don't forget to put in __resource.lua or fxmanifest.lua__**
 * server_scripts{ 
  "modules/factions.lua"
 }

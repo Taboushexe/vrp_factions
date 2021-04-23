@@ -6,7 +6,7 @@
 - Ranks with saving in Data Base
 - Salary
 - Easy Members Management
-- Faction chat with [a link](https://github.com/DaNiel-Coder3/chat-fivem)
+- Faction chat with [CobraKai's chat](https://github.com/DaNiel-Coder3/chat-fivem)
 
 ###### Important !
 

@@ -18,3 +18,5 @@
 client_scripts{
  "cfg/factions.lua"
 } 
+
+**__For support Taboush.exe#8177__**

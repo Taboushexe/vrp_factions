@@ -14,7 +14,7 @@
 
 **Don't forget to put in __resource.lua or fxmanifest.lua**
 > server_scripts{ 
- "modules/factions.lua"
+ "modules/faction.lua"
 }
 
 > client_scripts{

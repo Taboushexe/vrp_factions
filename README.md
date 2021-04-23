@@ -3,7 +3,7 @@
 
 ###### Includes:
 - Leader Menu (translated in romanian language)
-- Ranks with saving in Data Base
+- Ranks
 - Salary
 - Easy Members Management
 - Faction chat with [CobraKai's chat](https://github.com/DaNiel-Coder3/chat-fivem)

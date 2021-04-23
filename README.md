@@ -16,6 +16,7 @@
 > server_scripts{ 
  "modules/factions.lua"
 }
+
 > client_scripts{
  "cfg/factions.lua"
 } 

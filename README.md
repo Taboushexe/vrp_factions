@@ -1,5 +1,5 @@
 # **vrp_factions**
-## vrp_factions (compatible with Dunko VRP v6.6 and last versions) with database support 
+## vrp_factions (compatible with Dunko VRP v6.6 and all the newest) with database support 
 
 ###### Includes:
 - Leader Menu (translated in romanian language)

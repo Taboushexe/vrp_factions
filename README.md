@@ -21,4 +21,4 @@
  "cfg/factions.lua"
 } 
 
-**__For support Taboush.exe#8177__**
+**__For support Taboush.exe#7777__**
